@@ -1,4 +1,3 @@
-# CV
 ## Junior Frontend Developer
 ### Contacts
 <table>
