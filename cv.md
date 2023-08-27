@@ -36,7 +36,7 @@ function isIsogram(str){
 
 ---
 
-### My pet-project: <u>["Recipes fullstack"](https://github.com/techiner/recipesFullStack)</u>
+### My pet-project: <u>!["Recipes fullstack"](https://github.com/techiner/recipesFullStack)</u>
 #### Technology stack: 
 - JS
   - React
